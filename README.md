@@ -32,7 +32,7 @@ _El objetivo de esta Practica es la creaciòn de una aplicaciòn con stateful po
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/107955084/193699492-bd954bcb-8f12-42d3-b589-bc7e22730822.png" width="30%"/
-<p align="end"><img src="https://user-images.githubusercontent.com/107955084/193699749-1f013bc0-8d41-475f-b9ac-6a501df63c78.png" width="30%"/>></p>
+<p align="end"><img src="https://user-images.githubusercontent.com/107955084/193699749-1f013bc0-8d41-475f-b9ac-6a501df63c78.png" width="30%"/></p>
 
 </p>
 
@@ -40,7 +40,7 @@ _El objetivo de esta Practica es la creaciòn de una aplicaciòn con stateful po
 :heavy_check_mark: `Resultado 3:` _En esta ùltima se obserba un gif, de lo que es la aplicacion ejecutada en un navegador y su accion correspondiente al pulsar el boton_
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/107955084/193701490-271bf6d5-86dc-4d2b-a4c3-a9fbd680e66c.gif" width="50%"/>></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/107955084/193701490-271bf6d5-86dc-4d2b-a4c3-a9fbd680e66c.gif" width="50%"/></p>
 
 
 
