@@ -4,9 +4,9 @@
                      </p>
 
 
-<p align="center"> <h1> Stateful </h1></p>
+<p align="center"> <h1> Pràctica  08 </h1></p>
 
-## Nombre de la Practica 🚀
+## Nombre de la Pràctica 🚀
 
 _creaciòn de una aplicacion stateful con un boton interactivo_
 
@@ -68,4 +68,4 @@ _El objetivo de esta Practica es la creaciòn de una aplicaciòn con stateful po
 
 ## Versiòn 📌
 
-_v1.0_
+_v1.0.0_
